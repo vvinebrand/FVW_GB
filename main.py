@@ -9,4 +9,3 @@ if len(words) >= 1:
     print(*words, sep=', ')
 else:
     print('There are no words in the array whose length is less than or equal to 3!')
-
